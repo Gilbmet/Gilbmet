@@ -12,7 +12,7 @@ Gilbmet
 
     💬 You can ask me about Cross-platform Mobile App Development
 
-    📫 How to reach me fakunletolulope05@gmail.com
+    📫 How to reach me gilbmet254@gmail.com
 
     ⚡ Fun fact I'm a graduate of ALX Software Engineering Programme
 
